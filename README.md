@@ -1,5 +1,5 @@
 # CS 195: Natural Language Processing
-**Spring 20253**
+**Spring 2025**
 
 ## Instructor
 
