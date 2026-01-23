@@ -14,7 +14,7 @@ Eric Manley
 
 ### Office Hours
 
-Schedule in [Calendly](https://calendly.com/eric-manley/office-hours) the day before or drop in
+:calendar: Schedule in [Calendly](https://calendly.com/eric-manley/office-hours) the day before or drop in
 * MW 9:30 - 12:00pm
 
 
