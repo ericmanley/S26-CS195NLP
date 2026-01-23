@@ -23,10 +23,10 @@ Eric Manley
 ## Fortnight 1
 
 ### 1/26 Prologue: Adventure Awaits
-* [Syllabus](F0_0_Syllabus.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s25-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
-* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s25-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
+* [Syllabus](F0_0_Syllabus.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
+* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
 * Further Reading
     - [Hugging Face *Quicktour*](https://huggingface.co/docs/transformers/quicktour)
     - [Hugging Face *Run Inference with Pipelines tutorial*](https://huggingface.co/docs/transformers/pipeline_tutorial)
-    - [Hugging Face *NLP Course, Chapter 2*](https://huggingface.co/learn/nlp-course/chapter2/1)# S26-CS195NLP
+    - [Hugging Face *NLP Course, Chapter 2*](https://huggingface.co/learn/nlp-course/chapter2/1)
 
