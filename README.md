@@ -1,2 +1,32 @@
-# S26-CS195NLP
-Materials for CS 195: Natural Language Processing in the Spring 2026 semester
+# CS 195: Natural Language Processing
+**Fall 2023**
+
+## Instructor
+
+Eric Manley
+
+ :speech_balloon: [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=eric.manley@drake.edu)
+
+:email: eric.manley@drake.edu
+
+:office: Collier-Scripps 327
+
+
+### Office Hours
+
+Schedule in [Calendly](https://calendly.com/eric-manley/office-hours) the day before or drop in
+* MW 9:30 - 12:00pm
+
+
+---
+
+## Fortnight 1
+
+### 1/26 Prologue: Adventure Awaits
+* [Syllabus](F0_0_Syllabus.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s25-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
+* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s25-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
+* Further Reading
+    - [Hugging Face *Quicktour*](https://huggingface.co/docs/transformers/quicktour)
+    - [Hugging Face *Run Inference with Pipelines tutorial*](https://huggingface.co/docs/transformers/pipeline_tutorial)
+    - [Hugging Face *NLP Course, Chapter 2*](https://huggingface.co/learn/nlp-course/chapter2/1)# S26-CS195NLP
+
