@@ -30,8 +30,7 @@ Eric Manley
 
 
 ### 1/28: Using the Transformers Library
-* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
-(https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
+* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
 * Further Reading
     - [Hugging Face *Quicktour*](https://huggingface.co/docs/transformers/quicktour)
     - [Hugging Face *Run Inference with Pipelines tutorial*](https://huggingface.co/docs/transformers/pipeline_tutorial)
