@@ -37,7 +37,7 @@ Eric Manley
     - [Hugging Face *NLP Course, Chapter 2*](https://huggingface.co/learn/nlp-course/chapter2/1)
 
 
-### 2/2 Text Classification Data and Evaluation
+### 2/2: Text Classification Data and Evaluation
 * [Loading Data and Evaluating Classification Models](F1_2_DataEvaluation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F1_2_DataEvaluation.ipynb)
 * Further Reading
     - [Hugging Face Load a dataset from the Hub tutorial](https://huggingface.co/docs/datasets/load_hub)
