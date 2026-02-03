@@ -44,3 +44,10 @@ Eric Manley
     - [Arrow for datasets](https://huggingface.co/docs/datasets/about_arrow)
     - [scikit-learn Classification Metrics User's Guide](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics)
 
+### 2/4 ROUGE and Summarization
+* [ROUGE and Summarization](F1_3_RougeSummarization.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F1_3_RougeSummarization.ipynb)
+* Further Reading
+    - [*Two minutes NLP — Learn the ROUGE metric* by examples](https://medium.com/nlplanet/two-minutes-nlp-learn-the-rouge-metric-by-examples-f179cc285499) by Fabio Chiusan 
+    - [Google's implementation of rouge_score](https://github.com/google-research/google-research/tree/master/rouge)
+    - [Hugging Face's wrapper for Google's implementation](https://huggingface.co/spaces/evaluate-metric/rouge)
+    - [Hugging Face Task Guide on Summarization](https://huggingface.co/docs/transformers/tasks/summarization)
