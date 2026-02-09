@@ -51,3 +51,18 @@ Eric Manley
     - [Google's implementation of rouge_score](https://github.com/google-research/google-research/tree/master/rouge)
     - [Hugging Face's wrapper for Google's implementation](https://huggingface.co/spaces/evaluate-metric/rouge)
     - [Hugging Face Task Guide on Summarization](https://huggingface.co/docs/transformers/tasks/summarization)
+
+
+---
+
+## Fortnight 2
+
+### 2/9: Demo Day, Chat & Instruct Models
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* [Chat and Instruct Models](F2_1_ChatInstruct.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F2_1_ChatInstruct.ipynb)
+* Further Reading
+    - [Hugging Face Chat Basics](https://huggingface.co/docs/transformers/en/conversations)
+    - [SmolLM2: When Smol Goes Big — Data-Centric Training of a Small Language Model](https://arxiv.org/pdf/2502.02737)
