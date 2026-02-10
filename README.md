@@ -66,3 +66,10 @@ Eric Manley
 * Further Reading
     - [Hugging Face Chat Basics](https://huggingface.co/docs/transformers/en/conversations)
     - [SmolLM2: When Smol Goes Big — Data-Centric Training of a Small Language Model](https://arxiv.org/pdf/2502.02737)
+
+
+### 2/11: Large Language Models via Web API
+* [Large Language Models via Web API](F2_1_ChatInstruct.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F2_2_LLMAPI.ipynb)
+* Further Reading
+    - [Hugging Face Chat Basics](https://huggingface.co/docs/transformers/en/conversations)
+    - [OpenAI Developer Quickstart](https://developers.openai.com/api/docs/quickstart)
