@@ -73,3 +73,12 @@ Eric Manley
 * Further Reading
     - [Hugging Face Chat Basics](https://huggingface.co/docs/transformers/en/conversations)
     - [OpenAI Developer Quickstart](https://developers.openai.com/api/docs/quickstart)
+
+### 2/17: Markov Models
+* [Markov Models](F2_3_MarkovModels.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F2_3_MarkovModels.ipynb)
+* Further Reading
+    - [Markov chain on Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
+    - [NLTK Book Chapter 2: Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
+    - [What is ChatGPT Doing and Why Does it Work? By Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+        * This is a fascinating article that covers a lot of NLP topics. The opening motivates text generation with Markov-like descriptions.
+    - [Chapter 3: N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf). *Speech and Language Processing.* Daniel Jurafsky & James H. Martin
