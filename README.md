@@ -84,7 +84,7 @@ Eric Manley
     - [Chapter 3: N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf). *Speech and Language Processing.* Daniel Jurafsky & James H. Martin
 
 ### 2/18: Subword Tokenization and Byte-Pair Encoding
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F2_4_SubwordTokenizationBPE.ipynb)
+* [Subword Tokenization and Byte-Pair Encoding](F2_4_SubwordTokenizationBPE.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F2_4_SubwordTokenizationBPE.ipynb)
 * Further Reading
     - [GPT Tokenizer Illustration](https://platform.openai.com/tokenizer)
     - [Hugging Face Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt)
