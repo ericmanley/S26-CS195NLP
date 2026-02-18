@@ -20,7 +20,7 @@ Eric Manley
 
 ---
 
-## Fortnight 1
+## Fortnight 1: NLP Model Inference and Evaluation
 
 ### 1/26 Prologue: Adventure Awaits
 * [Syllabus](F0_0_Syllabus.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
@@ -55,7 +55,7 @@ Eric Manley
 
 ---
 
-## Fortnight 2
+## Fortnight 2: Working with small, large, and classic language models
 
 ### 2/9: Demo Day, Chat & Instruct Models
 * Demo Day
@@ -93,3 +93,15 @@ Eric Manley
         * [Python `requests` library quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
         * [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
         * [Python `split` method](https://docs.python.org/3/library/stdtypes.html#str.split)
+
+---
+
+## Fortnight 3: Machine Learning with Text
+
+### 2/23: Industry Partner Use of NLP and Demo Day
+* Presentation from Berkshire Hathaway Energy: Vinay Kodigante, Ryan Blokhuis, Amanda Pereira
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* [Sample Portfolio in Google Drive + Colab](https://drive.google.com/drive/folders/1RKWq7TQq3QgakAPlykTQbmIgEx_HQ8Fm?usp=drive_link)
