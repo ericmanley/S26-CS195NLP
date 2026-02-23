@@ -107,7 +107,7 @@ Eric Manley
 * [Sample Portfolio in Google Drive + Colab](https://drive.google.com/drive/folders/1RKWq7TQq3QgakAPlykTQbmIgEx_HQ8Fm?usp=drive_link)
 
 ### 2/25: Machine Learning with Text Data
-* [Machine Learning with Text Data](F3_1_MachineLearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/3_1_MachineLearning.ipynb)
+* [Machine Learning with Text Data](F3_1_MachineLearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F3_1_MachineLearning.ipynb)
 * Further Reading
     - [Chapter 11: Information Retrieval and Retrieval-Augmented Generation](https://web.stanford.edu/~jurafsky/slp3/11.pdf). *Speech and Language Processing.* Daniel Jurafsky & James H. Martin
     - [scikit-learn API reference](https://scikit-learn.org/stable/modules/classes.html)
