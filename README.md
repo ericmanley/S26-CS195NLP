@@ -112,3 +112,8 @@ Eric Manley
     - [Chapter 11: Information Retrieval and Retrieval-Augmented Generation](https://web.stanford.edu/~jurafsky/slp3/11.pdf). *Speech and Language Processing.* Daniel Jurafsky & James H. Martin
     - [scikit-learn API reference](https://scikit-learn.org/stable/modules/classes.html)
     - [Professor Urness' Machine Learning material from Fall 2025](https://github.com/urness/CS167Fall2025)
+
+### 3/2: Review of Logistic Regression and Optimization, Introduction to PyTorch
+* [Review of Logistic Regression and Optimization, Introduction to PyTorch](F3_2_LogisticRegressionPyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F3_2_LogisticRegressionPyTorch.ipynb)
+* Further Reading
+    - [Chapter 4: Logistic Regression and Text Classificationn](https://web.stanford.edu/~jurafsky/slp3/4.pdf). *Speech and Language Processing.* Daniel Jurafsky & James H. Martin
