@@ -120,7 +120,7 @@ Eric Manley
 
 
 ### 3/4: Review of Logistic Regression and Optimization, Introduction to PyTorch
-* [Multiclass PyTorch, Adam, and Neural Networks](F3_2_LogisticRegressionPyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F3_3_MulticlassAdamNeuralNetworks.ipynb)
+* [Multiclass PyTorch, Adam, and Neural Networks](F3_3_MulticlassAdamNeuralNetworks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F3_3_MulticlassAdamNeuralNetworks.ipynb)
 * Further Reading
     - [SLP: Neural Networks, Chapter 6 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
     - [Adam vs SGD : What are the optimizers in neural network and when do we use? by Adam Lee](https://medium.com/@pumadd1227/adam-vs-sgd-what-are-the-optimizers-in-neural-network-and-when-do-we-use-238478a0eaea)
