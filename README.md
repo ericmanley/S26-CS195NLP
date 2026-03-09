@@ -119,7 +119,7 @@ Eric Manley
     - [Chapter 4: Logistic Regression and Text Classificationn](https://web.stanford.edu/~jurafsky/slp3/4.pdf). *Speech and Language Processing.* Daniel Jurafsky & James H. Martin
 
 
-### 3/4: Review of Logistic Regression and Optimization, Introduction to PyTorch
+### 3/4: Multiclass PyTorch, Adam, and Neural Networks
 * [Multiclass PyTorch, Adam, and Neural Networks](F3_3_MulticlassAdamNeuralNetworks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F3_3_MulticlassAdamNeuralNetworks.ipynb)
 * Further Reading
     - [SLP: Neural Networks, Chapter 6 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
@@ -127,3 +127,19 @@ Eric Manley
     - [Artificial Neural Networks, Chapter 4 of Machine Learning by Tom M. Mitchell](http://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf)
     - [PyTorch CrossEntropyLoss reference](https://docs.pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)
     - [PyTorch Sequential model reference](https://docs.pytorch.org/docs/stable/generated/torch.nn.Sequential.html)
+
+---
+
+## Fortnight 4: Embeddings and Sequence Models
+
+### 3/9: Demo Day and Embeddings
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* [Embeddings](F4_1_Embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F4_1_Embeddings.ipynb)
+* Further Reading
+    - [Word2Vec Tutorial - The Skip-Gram Model by Chris McCormick](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+    - [Word2Vec - Negative Sampling made easy by Munesh Lakhey](https://medium.com/@mnshonco/word2vec-negative-sampling-made-easy-9a587cb4695f)
+    - [PyTorch `nn.Embedding` documentation](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
+    - [PyTorch `torch.nn.functional.one_hot` documentation](https://pytorch.org/docs/stable/generated/torch.nn.functional.one_hot.html)
