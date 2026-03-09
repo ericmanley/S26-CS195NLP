@@ -139,6 +139,7 @@ Eric Manley
     - (optional) Nominate a cool project to show off to everyone
 * [Embeddings](F4_1_Embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F4_1_Embeddings.ipynb)
 * Further Reading
+    - [SLP: Embeddings, Chapter 5 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
     - [Word2Vec Tutorial - The Skip-Gram Model by Chris McCormick](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
     - [Word2Vec - Negative Sampling made easy by Munesh Lakhey](https://medium.com/@mnshonco/word2vec-negative-sampling-made-easy-9a587cb4695f)
     - [PyTorch `nn.Embedding` documentation](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
