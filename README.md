@@ -130,7 +130,7 @@ Eric Manley
 
 ---
 
-## Fortnight 4: Embeddings and Sequence Models
+## Fortnight 4: Embeddings
 
 ### 3/9: Demo Day and Embeddings
 * Demo Day
@@ -144,3 +144,7 @@ Eric Manley
     - [Word2Vec - Negative Sampling made easy by Munesh Lakhey](https://medium.com/@mnshonco/word2vec-negative-sampling-made-easy-9a587cb4695f)
     - [PyTorch `nn.Embedding` documentation](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
     - [PyTorch `torch.nn.functional.one_hot` documentation](https://pytorch.org/docs/stable/generated/torch.nn.functional.one_hot.html)
+
+### 3/11: PyTorch Embeddings
+* [PyTorch Embeddings](F4_2_PyTorchEmbeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F4_2_PyTorchEmbeddings.ipynb)
+* Further Reading: Same as previous notes
