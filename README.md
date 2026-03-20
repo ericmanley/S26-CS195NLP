@@ -151,3 +151,4 @@ Eric Manley
 
 
 ### 3/23: No class due to Eric speaking at a conference
+* See announcement email
