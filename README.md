@@ -148,3 +148,6 @@ Eric Manley
 ### 3/11: PyTorch Embeddings
 * [PyTorch Embeddings](F4_2_PyTorchEmbeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F4_2_PyTorchEmbeddings.ipynb)
 * Further Reading: Same as previous notes
+
+
+### 3/23: No class due to Eric speaking at a conference
