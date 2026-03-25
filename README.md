@@ -152,3 +152,12 @@ Eric Manley
 
 ### 3/23: No class due to Eric speaking at a conference
 * See announcement email
+
+
+### 3/25: Semantic Search with Embeddings
+* [Semantic Search with Embeddings](F4_3_SemanticSearchEmbeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F4_3_SemanticSearchEmbeddings.ipynb)
+    * Further Reading:
+        - [Dot product (Wikipedia)](https://en.wikipedia.org/wiki/Dot_product)
+        - [Cosine similarity (Wikipedia)](https://en.wikipedia.org/wiki/Cosine_similarity)
+        - [Sentence-Transformers documentation](https://www.sbert.net/)
+        - [all-MiniLM-L6-v2 model card](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
