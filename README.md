@@ -161,3 +161,21 @@ Eric Manley
         - [Cosine similarity (Wikipedia)](https://en.wikipedia.org/wiki/Cosine_similarity)
         - [Sentence-Transformers documentation](https://www.sbert.net/)
         - [all-MiniLM-L6-v2 model card](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
+
+---
+
+## Fortnight 5: Engineering NLP Agents
+
+### 3/30: Demo Day and Retrival Augmented Generation (RAG)
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* [Retrieval Augmented Generation](F5_1_RAG.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F5_1_RAG.ipynb)
+* Further Reading
+    - [Hugging Face Chat Basics](https://huggingface.co/docs/transformers/en/conversations)
+    - [Sentence-Transformers documentation](https://www.sbert.net/)
+    - [SLP: Information Retrieval and Retrieval-Augmented Generation, Chapter 11 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
+
+
