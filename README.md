@@ -179,7 +179,7 @@ Eric Manley
     - [SLP: Information Retrieval and Retrieval-Augmented Generation, Chapter 11 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
 
 ### 4/1: Evan Scherrer presents WordNet
-* [Semantic Similarity with WordNet](https://github.com/ericmanley/S26-CS195NLP/blob/main/F5_2_Evan_Scherrer_Wordnet.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F5_2_Evan_Scherrer_Wordnet.ipynb)
+* [Semantic Similarity with WordNet](https://github.com/ericmanley/S26-CS195NLP/blob/main/F5_2_Evan_Scherrer_Wordnet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F5_2_Evan_Scherrer_Wordnet.ipynb)
 * Further Reading
     - [WordNet Homepage](https://wordnet.princeton.edu/)
     - [Wordnet on Wikipedia](https://en.wikipedia.org/wiki/WordNet)
