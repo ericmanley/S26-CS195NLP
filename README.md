@@ -190,10 +190,10 @@ Eric Manley
 ### 4/6: Recurrent Neural Networks and Language Modeling
 * [Recurrent Neural Networks and Language Modeling](https://github.com/ericmanley/S26-CS195NLP/blob/main/F5_3_RNNLanguageModels.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F5_3_RNNLanguageModels.ipynb)
 * Further Reading
-- [SLP: N-gram Language Models, Chapter 3 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
-- [SLP: RNNs and LSTMs, Chapter 13 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
-- [PyTorch `nn.RNN` docs](https://pytorch.org/docs/stable/generated/torch.nn.RNN.html)
-- [PyTorch `nn.Embedding` docs](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
+    - [SLP: N-gram Language Models, Chapter 3 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+    - [SLP: RNNs and LSTMs, Chapter 13 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
+    - [PyTorch `nn.RNN` docs](https://pytorch.org/docs/stable/generated/torch.nn.RNN.html)
+    - [PyTorch `nn.Embedding` docs](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
 
 
 
