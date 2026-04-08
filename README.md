@@ -196,4 +196,10 @@ Eric Manley
     - [PyTorch `nn.Embedding` docs](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
 
 
+### 4/8: More with Recurrent Neural Networks
+* [LSTM, Encoder-Decoder Architectures, and Attention](https://github.com/ericmanley/S26-CS195NLP/blob/main/F5_4_LSTMEncoderDecoderAttention.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F5_4_LSTMEncoderDecoderAttention.ipynb)
+* Further Reading
+    - [SLP: RNNs and LSTMs, Chapter 13 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
+
+
 
