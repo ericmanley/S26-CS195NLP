@@ -198,4 +198,19 @@ Eric Manley
 ### 4/8: Class canceled - see email/Blackboard annoucement
 
 
+---
+
+## Fortnight 6: Going Deeper with RNNs, Transformers, and Transfer Learning
+
+### 4/13: Demo Day and More with Recurrent Neural Networks
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* [LSTM and Encoder-Decoder Architectures](https://github.com/ericmanley/S26-CS195NLP/blob/main/F6_1_LSTMEncoderDecoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F6_1_LSTMEncoderDecoder.ipynb)
+* Further Reading
+    - [SLP: RNNs and LSTMs, Chapter 13 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
+
+
+
 
