@@ -217,5 +217,11 @@ Eric Manley
     - [SLP: RNNs and LSTMs, Chapter 13 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 
 
+### 4/20: Transformers
+* [Transformers](https://github.com/ericmanley/S26-CS195NLP/blob/main/F6_3_Transformers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F6_3_Transformers.ipynb)
+* Further Reading
+    - [SLP: Transformers, Chapter 8 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+    - [How do Transformers Work?, Section 1.4 of Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/4)
+
 
 
