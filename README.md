@@ -223,5 +223,14 @@ Eric Manley
     - [SLP: Transformers, Chapter 8 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
     - [How do Transformers Work?, Section 1.4 of Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/4)
 
+### 4/22: Fine-Tuning a Transformer Model
+* [Fine-Tuning a Transformer Model](https://github.com/ericmanley/S26-CS195NLP/blob/main/F6_4_FineTuningTransformers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F6_4_FineTuningTransformers.ipynb)
+* Further Reading
+    - [SLP: Post-training: Instruction Tuning, Alignment, and Test-Time Compute, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+    - [Hugging Face PEFT LoRA conceptual guide](https://huggingface.co/docs/peft/main/en/conceptual_guides/lora)
+    - [LoRA paper: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+    - [Hugging Face TRL `SFTTrainer`](https://huggingface.co/docs/trl/main/en/sft_trainer)
+    - [Hugging Face PEFT LoRA guide](https://huggingface.co/docs/peft/en/developer_guides/lora)
+
 
 
