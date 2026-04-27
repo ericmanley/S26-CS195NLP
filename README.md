@@ -234,3 +234,19 @@ Eric Manley
 
 
 
+## Fortnight 7: Agents and Alignment
+
+### 4/27: Demo Day and Tool Calling
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* [Tool Calling](https://github.com/ericmanley/S26-CS195NLP/blob/main/F7_1_ToolCalling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F7_1_ToolCalling.ipynb)
+* Further Reading
+    - [Hugging Face chat templates](https://huggingface.co/docs/transformers/en/chat_templating)
+    - [Qwen2.5-0.5B-Instruct model card](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)
+    - [OpenAI function calling guide](https://platform.openai.com/docs/guides/function-calling)
+    
+
+
+
