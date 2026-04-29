@@ -226,7 +226,7 @@ Eric Manley
 ### 4/22: Fine-Tuning a Transformer Model
 * [Fine-Tuning a Transformer Model](https://github.com/ericmanley/S26-CS195NLP/blob/main/F6_4_FineTuningTransformers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F6_4_FineTuningTransformers.ipynb)
 * Further Reading
-    - [SLP: Post-training: Instruction Tuning, Alignment, and Test-Time Compute, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+    - [SLP: Post-training: Instruction Tuning, Alignment, and Test-Time Compute, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
     - [Hugging Face PEFT LoRA conceptual guide](https://huggingface.co/docs/peft/main/en/conceptual_guides/lora)
     - [LoRA paper: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
     - [Hugging Face TRL `SFTTrainer`](https://huggingface.co/docs/trl/main/en/sft_trainer)
@@ -246,7 +246,17 @@ Eric Manley
     - [Hugging Face chat templates](https://huggingface.co/docs/transformers/en/chat_templating)
     - [Qwen2.5-0.5B-Instruct model card](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)
     - [OpenAI function calling guide](https://platform.openai.com/docs/guides/function-calling)
-    
+
+### 4/29: Alignment
+* [Alignment with Preference Tuning](https://github.com/ericmanley/S26-CS195NLP/blob/main/F7_2_Alignment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F7_2_Alignment.ipynb)
+* Further Reading
+    - [SLP: Post-training: Instruction Tuning, Alignment, and Test-Time Compute, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+    - [Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf)
+    - [Simplifying Alignment: From RLHF to Direct Preference Optimization (DPO)](https://huggingface.co/blog/ariG23498/rlhf-to-dpo)
+    - [DPO paper: Direct Preference Optimization](https://arxiv.org/abs/2305.18290)
+    - [Hugging Face TRL `DPOTrainer` docs](https://huggingface.co/docs/trl/en/dpo_trainer)
+    - [Hugging Face TRL dataset formats](https://huggingface.co/docs/trl/main/dataset_formats)
+    - [Hugging Face PEFT LoRA guide](https://huggingface.co/docs/peft/en/developer_guides/lora)
 
 
 
