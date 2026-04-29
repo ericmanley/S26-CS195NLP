@@ -1,0 +1,162 @@
+[
+  {
+    "id": "u_0001",
+    "category": "unsupported_major_requirements",
+    "question": "Will CS 167 count toward the machine learning requirement for my specific major?"
+  },
+  {
+    "id": "u_0002",
+    "category": "unsupported_major_requirements",
+    "question": "Can STAT 040 substitute for a required data analytics course in my degree audit?"
+  },
+  {
+    "id": "u_0003",
+    "category": "unsupported_major_requirements",
+    "question": "Does AI 010 count toward the AI minor for students who started under last year's catalog?"
+  },
+  {
+    "id": "u_0004",
+    "category": "unsupported_major_requirements",
+    "question": "Can MATH 080 satisfy an elective requirement for my computer science major?"
+  },
+  {
+    "id": "u_0005",
+    "category": "unsupported_registration",
+    "question": "How many seats are still open in CS 195?"
+  },
+  {
+    "id": "u_0006",
+    "category": "unsupported_registration",
+    "question": "Is there a waitlist for CS 167 Machine Learning?"
+  },
+  {
+    "id": "u_0007",
+    "category": "unsupported_registration",
+    "question": "Will the instructor let me into CS 130 if the class is full?"
+  },
+  {
+    "id": "u_0008",
+    "category": "unsupported_registration",
+    "question": "Can I get instructor permission to take CS 188 without the prerequisite?"
+  },
+  {
+    "id": "u_0009",
+    "category": "unsupported_course_materials",
+    "question": "What textbook is used in CS 167?"
+  },
+  {
+    "id": "u_0010",
+    "category": "unsupported_course_materials",
+    "question": "Does MATH 080 require students to buy a calculator?"
+  },
+  {
+    "id": "u_0011",
+    "category": "unsupported_course_materials",
+    "question": "What programming language is used in CS 130?"
+  },
+  {
+    "id": "u_0012",
+    "category": "unsupported_course_materials",
+    "question": "Does STAT 071 use R, Excel, or another software package?"
+  },
+  {
+    "id": "u_0013",
+    "category": "unsupported_workload",
+    "question": "How many hours of homework per week should I expect in CS 167?"
+  },
+  {
+    "id": "u_0014",
+    "category": "unsupported_workload",
+    "question": "Is MATH 054 considered an easy class?"
+  },
+  {
+    "id": "u_0015",
+    "category": "unsupported_workload",
+    "question": "Which professor gives easier exams in Calculus I?"
+  },
+  {
+    "id": "u_0016",
+    "category": "unsupported_workload",
+    "question": "Is PHIL 113 mostly papers, exams, or projects?"
+  },
+  {
+    "id": "u_0017",
+    "category": "unsupported_modality",
+    "question": "Can I take CS 065 online?"
+  },
+  {
+    "id": "u_0018",
+    "category": "unsupported_modality",
+    "question": "Is AI 010 recorded so I can watch lectures later?"
+  },
+  {
+    "id": "u_0019",
+    "category": "unsupported_modality",
+    "question": "Does STAT 170 have an asynchronous option?"
+  },
+  {
+    "id": "u_0020",
+    "category": "unsupported_modality",
+    "question": "Can I attend MATH 050 remotely if I am sick?"
+  },
+  {
+    "id": "u_0021",
+    "category": "unsupported_transfer",
+    "question": "Will MATH 080 transfer to Iowa State as linear algebra?"
+  },
+  {
+    "id": "u_0022",
+    "category": "unsupported_transfer",
+    "question": "Will AP Computer Science credit let me skip CS 065?"
+  },
+  {
+    "id": "u_0023",
+    "category": "unsupported_transfer",
+    "question": "Can my community college statistics course replace STAT 071?"
+  },
+  {
+    "id": "u_0024",
+    "category": "unsupported_transfer",
+    "question": "Will CS 066 transfer as a programming course at another university?"
+  },
+  {
+    "id": "u_0025",
+    "category": "unsupported_advising",
+    "question": "Should I take CS 167 and MATH 080 in the same semester?"
+  },
+  {
+    "id": "u_0026",
+    "category": "unsupported_advising",
+    "question": "What course should I take if I want the highest GPA boost?"
+  },
+  {
+    "id": "u_0027",
+    "category": "unsupported_advising",
+    "question": "Which course will prepare me best for a summer internship at Principal?"
+  },
+  {
+    "id": "u_0028",
+    "category": "unsupported_advising",
+    "question": "Can you plan my entire four-year schedule for a CS and AI double major?"
+  },
+  {
+    "id": "u_0029",
+    "category": "unsupported_policy",
+    "question": "What is the final exam date for CS 130?"
+  },
+  {
+    "id": "u_0030",
+    "category": "unsupported_policy",
+    "question": "What is the attendance policy for AI 010?"
+  },
+  {
+    "id": "u_0031",
+    "category": "unsupported_policy",
+    "question": "Can I take STAT 072 pass/fail?"
+  },
+  {
+    "id": "u_0032",
+    "category": "unsupported_policy",
+    "question": "What grade do I need in CS 066 before I can take CS 130?"
+  }
+]

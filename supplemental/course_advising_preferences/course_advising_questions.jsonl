@@ -1,0 +1,76 @@
+{"id": "q_0001", "category": "cs_course_interest", "question": "I'm interested in artificial intelligence. Which courses look most directly related to AI?"}
+{"id": "q_0002", "category": "cs_course_interest", "question": "What classes should I look at if I want to learn about machine learning or data mining?"}
+{"id": "q_0003", "category": "cs_course_interest", "question": "Are there any computer science courses about bioinformatics?"}
+{"id": "q_0004", "category": "cs_course_interest", "question": "Which courses seem most relevant if I want to build web apps?"}
+{"id": "q_0005", "category": "cs_course_interest", "question": "I liked CS 065. What other CS classes in the data might come after intro programming?"}
+{"id": "q_0006", "category": "cs_schedule", "question": "When does CS 065 meet, and are there multiple sections?"}
+{"id": "q_0007", "category": "cs_schedule", "question": "Can I take CS 130 at 12:30 on Monday and Wednesday?"}
+{"id": "q_0008", "category": "cs_schedule", "question": "Does CS 137 have a Tuesday/Thursday morning section?"}
+{"id": "q_0009", "category": "cs_schedule", "question": "What time is Machine Learning offered?"}
+{"id": "q_0010", "category": "cs_schedule", "question": "Is there a computer science course that meets Monday and Wednesday at 3:30?"}
+{"id": "q_0011", "category": "cs_faculty", "question": "Who is teaching CS 130?"}
+{"id": "q_0012", "category": "cs_faculty", "question": "Which CS courses are taught by Meredith Moore?"}
+{"id": "q_0013", "category": "cs_faculty", "question": "Is Tim Urness teaching an intro CS class?"}
+{"id": "q_0014", "category": "cs_faculty", "question": "Who teaches Software Engineering?"}
+{"id": "q_0015", "category": "cs_faculty", "question": "Does the course information list an instructor for CS 167 Machine Learning?"}
+{"id": "q_0016", "category": "cs_prereq", "question": "What prerequisites are listed for CS 066?"}
+{"id": "q_0017", "category": "cs_prereq", "question": "Do I need CS 065 before taking CS 067?"}
+{"id": "q_0018", "category": "cs_prereq", "question": "What background do I need for Algorithm Analysis?"}
+{"id": "q_0019", "category": "cs_prereq", "question": "Does Machine Learning list any prerequisites?"}
+{"id": "q_0020", "category": "cs_prereq", "question": "Can a first-year student take CS 188 Software Engineering based only on the listed prerequisites?"}
+{"id": "q_0021", "category": "ai_course_interest", "question": "What is AI 010 about?"}
+{"id": "q_0022", "category": "ai_course_interest", "question": "Who teaches the interdisciplinary perspectives on AI course?"}
+{"id": "q_0023", "category": "ai_course_interest", "question": "Does AI 010 sound like a programming class or more of an interdisciplinary overview?"}
+{"id": "q_0024", "category": "ai_ethics", "question": "Are there any courses about ethics and artificial intelligence?"}
+{"id": "q_0025", "category": "ai_ethics", "question": "What topics does PHIL 113 AI Ethics cover?"}
+{"id": "q_0026", "category": "math_course_interest", "question": "Which math course should I look at for linear algebra?"}
+{"id": "q_0027", "category": "math_course_interest", "question": "Is there a course for discrete math?"}
+{"id": "q_0028", "category": "math_course_interest", "question": "What math course covers differential equations?"}
+{"id": "q_0029", "category": "math_course_interest", "question": "I'm interested in mathematical modeling. Is there a course for that?"}
+{"id": "q_0030", "category": "math_course_interest", "question": "Which courses are part of the calculus sequence?"}
+{"id": "q_0031", "category": "math_schedule", "question": "When does MATH 054 meet?"}
+{"id": "q_0032", "category": "math_schedule", "question": "Are there multiple sections of Calculus I?"}
+{"id": "q_0033", "category": "math_schedule", "question": "Can I take Linear Algebra on Tuesday and Thursday afternoons?"}
+{"id": "q_0034", "category": "math_schedule", "question": "What time does Calculus III meet?"}
+{"id": "q_0035", "category": "math_faculty", "question": "Who is teaching MATH 080 Linear Algebra?"}
+{"id": "q_0036", "category": "math_faculty", "question": "Which math classes are taught by Hyejin Park?"}
+{"id": "q_0037", "category": "math_faculty", "question": "Who teaches the MATH 050 sections?"}
+{"id": "q_0038", "category": "math_prereq", "question": "What prerequisites are listed for MATH 070 Calculus II?"}
+{"id": "q_0039", "category": "math_prereq", "question": "Does MATH 080 list Calculus II as a prerequisite?"}
+{"id": "q_0040", "category": "stats_course_interest", "question": "Which statistics courses involve R, SAS, regression, or data mining?"}
+{"id": "q_0041", "category": "stats_course_interest", "question": "What is STAT 040 about?"}
+{"id": "q_0042", "category": "stats_course_interest", "question": "Is there a course about probability for analytics?"}
+{"id": "q_0043", "category": "stats_course_interest", "question": "What course should I take if I want regression and time series?"}
+{"id": "q_0044", "category": "stats_schedule", "question": "When is STAT 071 offered?"}
+{"id": "q_0045", "category": "stats_schedule", "question": "Does STAT 172 have more than one section?"}
+{"id": "q_0046", "category": "stats_faculty", "question": "Who teaches STAT 072?"}
+{"id": "q_0047", "category": "stats_faculty", "question": "Which statistics courses are taught by Wiranthe Herath?"}
+{"id": "q_0048", "category": "comparison", "question": "What's the difference between CS 065 and CS 066 based on the course descriptions?"}
+{"id": "q_0049", "category": "comparison", "question": "Compare MATH 080 and MATH 176. Which one sounds more advanced?"}
+{"id": "q_0050", "category": "comparison", "question": "How are STAT 071 and STAT 072 different?"}
+{"id": "q_0051", "category": "comparison", "question": "Compare AI 010 and PHIL 113. Which one is more about ethics?"}
+{"id": "q_0052", "category": "planning", "question": "I want a schedule with CS and math but no Friday meetings. What options do the retrieved courses suggest?"}
+{"id": "q_0053", "category": "planning", "question": "I prefer Tuesday/Thursday classes. Which CS, math, or stats courses fit that pattern?"}
+{"id": "q_0054", "category": "planning", "question": "What are some morning courses related to computing, math, or statistics?"}
+{"id": "q_0055", "category": "planning", "question": "I need a course after 2pm related to CS, AI, math, or stats. What does the data show?"}
+{"id": "q_0056", "category": "attributes", "question": "Which CS-related courses have attributes listed?"}
+{"id": "q_0057", "category": "attributes", "question": "Does PHIL 113 satisfy any areas of inquiry or honors attributes?"}
+{"id": "q_0058", "category": "attributes", "question": "Are any math or statistics courses listed with the Quantitative Literacy attribute?"}
+{"id": "q_0059", "category": "location", "question": "Where does CS 065 meet?"}
+{"id": "q_0060", "category": "location", "question": "Where is MATH 054 located?"}
+{"id": "q_0061", "category": "location", "question": "What room is STAT 130 in?"}
+{"id": "q_0062", "category": "messy_student_wording", "question": "who's got the web dev class and when is it?"}
+{"id": "q_0063", "category": "messy_student_wording", "question": "do we have ai ethics and is it actually about coding?"}
+{"id": "q_0064", "category": "messy_student_wording", "question": "is calc 1 only in the morning or are there later sections too?"}
+{"id": "q_0065", "category": "messy_student_wording", "question": "what's the class for assembly stuff? professor too please"}
+{"id": "q_0066", "category": "messy_student_wording", "question": "I need stats but not super advanced, what are the intro-ish options?"}
+{"id": "q_0067", "category": "unsupported", "question": "Which of these courses will count for my specific major requirements as a data analytics major?"}
+{"id": "q_0068", "category": "unsupported", "question": "Which professor is the easiest grader for CS 167?"}
+{"id": "q_0069", "category": "unsupported", "question": "Can you guarantee that CS 195 will still have open seats when I register?"}
+{"id": "q_0070", "category": "unsupported", "question": "Will MATH 080 transfer to another university?"}
+{"id": "q_0071", "category": "unsupported", "question": "What textbook does STAT 071 use?"}
+{"id": "q_0072", "category": "other_variety", "question": "Are there any accounting courses that satisfy Critical Thinking?"}
+{"id": "q_0073", "category": "other_variety", "question": "Which biology courses look related to genetics or molecular biology?"}
+{"id": "q_0074", "category": "other_variety", "question": "Are there psychology courses that introduce research methods or statistics?"}
+{"id": "q_0075", "category": "other_variety", "question": "What courses mention environmental science or sustainability?"}
+{"id": "q_0076", "category": "other_variety", "question": "Are there any journalism or communication courses about digital media?"}
