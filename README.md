@@ -266,4 +266,10 @@ Eric Manley
     - [HuggingFace Guide on Quantization](https://huggingface.co/docs/optimum/concept_guides/quantization)
 
 
-
+### 5/6: Final Demo Day
+* Demo Day
+    - Demos of creative synthesis projects or completed applied exploration (or core practice if that's what you have)
+    - There should be time to show off multiple creative synthesis projects if you need to
+    - Write down the names of the people you presented to
+    - (optional) Nominate a cool project to show off to everyone
+* Course Evaluations and Final Learning Reflections: See Blackboard
