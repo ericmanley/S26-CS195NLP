@@ -258,5 +258,12 @@ Eric Manley
     - [Hugging Face TRL dataset formats](https://huggingface.co/docs/trl/main/dataset_formats)
     - [Hugging Face PEFT LoRA guide](https://huggingface.co/docs/peft/en/developer_guides/lora)
 
+### 5/4: Performance-Resource Trade-offs
+* [Thinking Models and Quantization](https://github.com/ericmanley/S26-CS195NLP/blob/main/F7_3_ThinkingQuantization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/s26-CS195NLP/blob/main/F7_3_ThinkingQuantization.ipynb)
+* Further Reading
+    - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models by Wei et al.](https://arxiv.org/pdf/2201.11903)
+    - [SLP: Post-training: Instruction Tuning, Alignment, and Test-Time Compute, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+    - [HuggingFace Guide on Quantization](https://huggingface.co/docs/optimum/concept_guides/quantization)
+
 
 
